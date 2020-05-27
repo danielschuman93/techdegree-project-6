@@ -1,0 +1,53 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A webpage that displays random quotes at the click of a button.",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "https://danielschuman93.github.io/techdegree-project-1/",
+            "github_link": "https://github.com/danielschuman93/techdegree-project-1",
+            "image_urls": ["./images/screenshots/project 0/Screenshot (6).png", "./images/screenshots/project 0/Screenshot (7).png", ""]
+        },
+
+        {
+            "id": 1,
+            "project_name": "List Filtering and Pagination",
+            "description": "",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "",
+            "github_link": "https://github.com/danielschuman93/techdegree-project-2",
+            "image_urls": ["", "", ""]
+        },
+
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "",
+            "github_link": "https://github.com/danielschuman93/techdegree-project-3",
+            "image_urls": ["", "", ""]
+        },
+
+        {
+            "id": 3,
+            "project_name": "OOP Gameshow App",
+            "description": "",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "",
+            "github_link": "https://github.com/danielschuman93/techdegree-project-4",
+            "image_urls": ["", "", ""]
+        },
+
+        {
+            "id": 4,
+            "project_name": "Public API",
+            "description": "",
+            "technologies": ["HTML", "CSS", "Javascript"],
+            "live_link": "",
+            "github_link": "https://github.com/danielschuman93/techdegree-project-5",
+            "image_urls": ["", "", ""]
+        }
+    ]
+}
