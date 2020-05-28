@@ -3,51 +3,51 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description": "A webpage that displays random quotes at the click of a button.",
+            "description": "A webpage that displays random quotes at the click of a button. Or you can just wait and see!",
             "technologies": ["HTML", "CSS", "Javascript"],
             "live_link": "https://danielschuman93.github.io/techdegree-project-1/",
             "github_link": "https://github.com/danielschuman93/techdegree-project-1",
-            "image_urls": ["./images/screenshots/project1/Screenshot (6).png", "./images/screenshots/project1/Screenshot (7).png", ""]
+            "image_urls": ["./static/images/screenshots/project1/RandomQuote1.png", "./static/images/screenshots/project1/RandomQuote2.png", "./static/images/screenshots/project1/RandomQuote3.png"]
         },
 
         {
             "id": 1,
             "project_name": "List Filtering and Pagination",
-            "description": "",
+            "description": "A paginated webpage that displays a list of fictional users that can be filtered via `Search` bar.",
             "technologies": ["HTML", "CSS", "Javascript"],
-            "live_link": "",
+            "live_link": "https://danielschuman93.github.io/techdegree-project-2/",
             "github_link": "https://github.com/danielschuman93/techdegree-project-2",
-            "image_urls": ["", "", ""]
+            "image_urls": ["./static/images/screenshots/project2/ListFiltering1.png", "./static/images/screenshots/project2/ListFiltering2.png", "./static/images/screenshots/project2/ListFiltering3.png"]
         },
 
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "",
+            "description": "An interactive form to sign up for a fictional web dev conference. Includes sign up for different classes, does not allow for time conflictions, keeps a running total for the amount to be paid, and gives friendly reminders to fill out all the information before submitting the form.",
             "technologies": ["HTML", "CSS", "Javascript"],
-            "live_link": "",
+            "live_link": "https://danielschuman93.github.io/techdegree-project-3/",
             "github_link": "https://github.com/danielschuman93/techdegree-project-3",
-            "image_urls": ["", "", ""]
+            "image_urls": ["./static/images/screenshots/project3/InteractiveForm1.png", "./static/images/screenshots/project3/InteractiveForm2.png", "./static/images/screenshots/project3/InteractiveForm3.png"]
         },
 
         {
             "id": 3,
             "project_name": "OOP Gameshow App",
-            "description": "",
+            "description": "A web app game that utilizes object-oriented programming. See if you can guess the phrase before you run out of hearts!",
             "technologies": ["HTML", "CSS", "Javascript"],
-            "live_link": "",
+            "live_link": "https://danielschuman93.github.io/techdegree-project-4/",
             "github_link": "https://github.com/danielschuman93/techdegree-project-4",
-            "image_urls": ["", "", ""]
+            "image_urls": ["./static/images/screenshots/project4/OOPApp1.png", "./static/images/screenshots/project4/OOPApp2.png", "./static/images/screenshots/project4/OOPApp3.png"]
         },
 
         {
             "id": 4,
             "project_name": "Public API",
-            "description": "",
+            "description": "A webpage that displays a fictional employee directory. All pictures and information are retrieved via a public API that generates random pictures and info. The page includes modal window popups when users are clicked, as well as user filtration via the `Search` bar.",
             "technologies": ["HTML", "CSS", "Javascript"],
-            "live_link": "",
+            "live_link": "https://danielschuman93.github.io/techdegree-project-5/",
             "github_link": "https://github.com/danielschuman93/techdegree-project-5",
-            "image_urls": ["", "", ""]
+            "image_urls": ["./static/images/screenshots/project5/PublicAPI1.png", "./static/images/screenshots/project5/PublicAPI2.png", "./static/images/screenshots/project5/PublicAPI3.png"]
         }
     ]
 }
