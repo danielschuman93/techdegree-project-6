@@ -100,6 +100,7 @@ a:hover{
 .portfolio-intro{
   margin: 0;
   padding: 40px 50px 30px;
+  background-color: rgb(240, 191, 127)
 }
 
 .portfolio-intro p{
@@ -110,6 +111,7 @@ a:hover{
 .portfolio-index{
   margin: 0;
   padding: 10px 50px;
+  background-color: rgb(245, 214, 174)
 }
 
   .portfolio-index .thumbnail{
@@ -147,4 +149,8 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+h1{
+  font-family: 'Eagle Lake', cursive;
 }
